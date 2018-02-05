@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="OrderedTest1" storage="c:\users\philipwong\source\repos\specflowonconsole\specflowonconsole\orderedtest1.orderedtest" id="ea1821e4-4e63-4b3c-9437-987500af94fe" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="c69550cc-fc2f-1718-da38-e695e79733eb" name="TestMethod1" storage="bin\debug\specflowonconsole.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
